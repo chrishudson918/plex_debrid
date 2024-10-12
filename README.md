@@ -84,7 +84,7 @@ If github is not your cup of tea;
 >  
 >  - **[Docker (Wiki)](https://github.com/itsToggle/plex_debrid/wiki/Setup-Guides#docker-setup)**
 >  - **[Windows (Wiki)](https://github.com/itsToggle/plex_debrid/wiki/Setup-Guides#windows-setup)**
->  - **[Linux Server (Wiki)](https://github.com/itsToggle/plex_debrid/wiki/Setup-Guides#linux-server-setup)**
+>  - **[Linux Server (Wiki)](https://github.com/chrishudson918/plex_debrid/wiki))**
 >  - **[Linux ARM Server (Wiki)](https://github.com/itsToggle/plex_debrid/wiki/Setup-Guides#linux-arm64-server-setup)**
 >  - **[FreeBSD (u/TheNicestRichtofen)](https://www.reddit.com/r/Piracy/comments/v5zpj7/comment/ibnikqh/?utm_source=share&utm_medium=web2x&context=3)**
 >  - **[Android (Nvidia Shield)](https://github.com/itsToggle/plex_debrid/wiki/Setup-Guides#android-nvidia-shield-setup)**
